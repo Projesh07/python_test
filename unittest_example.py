@@ -1,5 +1,6 @@
 import unittest
 from donation import Donate
+#Test represents the static donation
 class TestDonate(unittest.TestCase):
 	card_charge=1.50
 
