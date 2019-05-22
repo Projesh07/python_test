@@ -1,4 +1,5 @@
 
+#Client class
 class Donate:
 	card_charge=1.50
 
